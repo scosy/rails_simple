@@ -1,5 +1,2 @@
-class Person
-  def self.name
-    'Amine'
-  end
+class Person < ApplicationRecord
 end
